@@ -2,7 +2,6 @@
 Google Solution Challenge 
 <br>
 <h1 style="color: red; text-align: center;">We are Team Rocket from GDG on campus at Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded</h1>
-<br>
 <h3>Introduction to the Issue:</h3>
 <br>
 In colleges located far from city centers, hostel students often face significant challenges in accessing essential goods and services.
